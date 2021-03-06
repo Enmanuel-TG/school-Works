@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/school-Works/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/school-Works/static/js/main.eefc3f0f.chunk.js",
+    "main.js.map": "/school-Works/static/js/main.eefc3f0f.chunk.js.map",
+    "runtime-main.js": "/school-Works/static/js/runtime-main.4b20682d.js",
+    "runtime-main.js.map": "/school-Works/static/js/runtime-main.4b20682d.js.map",
+    "static/js/2.691c5ea9.chunk.js": "/school-Works/static/js/2.691c5ea9.chunk.js",
+    "static/js/2.691c5ea9.chunk.js.map": "/school-Works/static/js/2.691c5ea9.chunk.js.map",
+    "static/js/3.e7495403.chunk.js": "/school-Works/static/js/3.e7495403.chunk.js",
+    "static/js/3.e7495403.chunk.js.map": "/school-Works/static/js/3.e7495403.chunk.js.map",
+    "index.html": "/school-Works/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/school-Works/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.691c5ea9.chunk.js.LICENSE.txt": "/school-Works/static/js/2.691c5ea9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/school-Works/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b20682d.js",
+    "static/js/2.691c5ea9.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.eefc3f0f.chunk.js"
+  ]
+}
